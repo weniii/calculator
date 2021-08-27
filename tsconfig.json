@@ -1,0 +1,23 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "watch": true,
+    "module": "system",
+    "target": "es5",
+    "pretty": true,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outFile": "./app.js",
+    "sourceMap": true,
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    
+    "strictFunctionTypes": false,  
+   
+  },
+  "include": [
+    "./workday3/Main.ts"
+  ]
+
+}
